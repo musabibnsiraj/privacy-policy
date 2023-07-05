@@ -5,7 +5,7 @@ If you have questions or concerns about B-Epic Worldwide’s Privacy Policy or d
 
 Please also visit our TERMS AND CONDITIONS section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
-What Personal Data We Collect and How We Use It
+## What Personal Data We Collect and How We Use It
 From registered members, we collect only a minimum of personal information (i.e., as name, mailing address, email address, phone number, payment information, etc.) that is necessary to: authenticate and process their account and orders; provide them with account and order support; send them communications related to their account and orders; enable them to participate in special offers and other site features; and keep them posted on the latest announcements and updates. We store the personal information they provide in their online member account. All registered members can see, edit, or delete their personal information at any time in their online Back Office (except they cannot change their username). Member Support staff and website administrators can also see and edit that information.
 
 Also, we may collect and use website user's information for auditing, research, and analysis to improve our services and product.
@@ -15,6 +15,9 @@ Like many websites, "cookies" are used to enable our site's or service provider'
 Pixel tags, which are tiny graphic images, may be used to tell us what parts of our website visitors have visited.
 
 In some of our email messages, we use a “click-through” URL link to content on our sites. When a person clicks on these URLs, they pass through our web servers before arriving at the destination. This click-through data may be tracked to help us measure interest in methods that visitors prefer to retrieve information and messages. If you prefer not to be tracked in this manner, simply avoid clicking text or graphic links in emails.
+
+### Contact List Information
+The App may request access to your contact list to provide certain features. This information is used solely for the purpose of [describe the purpose, e.g., facilitating social connections within the App] and is not shared with any third parties without your explicit consent.
 
 ## How We Protect Personal Information
 We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.

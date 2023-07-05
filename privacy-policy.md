@@ -1,4 +1,4 @@
-Privacy Policy
+# Privacy Policy
 At B-Epic Worldwide, we respect and are committed to protecting your privacy and personal information. Please read the following to learn more about what type of information is gathered, how the information is used and for what purposes, how or when we disclose the information and how we safeguard your personal information. B-Epic Privacy Policy covers the collection, use, and disclosure of personal information that may be collected anytime you interact with B-Epic, such as when you visit our website, when you purchase our products and services, or when you contact our Member Support representatives. B-Epic may update its privacy policy from time to time. When we change the policy in a material way, a notice will be posted on our website along with the updated privacy policy.
 
 If you have questions or concerns about B-Epic Worldwide’s Privacy Policy or data processing, please contact us via a support ticket in your back office or by mail at B-Epic Member Support, 3075 N. Fairfield Rd, Layton, Utah 84041, USA.
@@ -16,24 +16,24 @@ Pixel tags, which are tiny graphic images, may be used to tell us what parts of 
 
 In some of our email messages, we use a “click-through” URL link to content on our sites. When a person clicks on these URLs, they pass through our web servers before arriving at the destination. This click-through data may be tracked to help us measure interest in methods that visitors prefer to retrieve information and messages. If you prefer not to be tracked in this manner, simply avoid clicking text or graphic links in emails.
 
-How We Protect Personal Information
+## How We Protect Personal Information
 We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
 
 We will not share, lease, sell, or otherwise transfer your personal information to any outside parties for their independent use or benefit without first obtaining your permission. However, we may release your information if we believe it is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights and safety.
 
-Legal Issues
+## Legal Issues
 Please note that B-Epic Worldwide may be required by law or litigation to disclose your personal information. Our internal policies call for the release of required information in the cases of subpoena, court orders and order of local, state and federal government.
 
-Service Providers and Vendors
+## Service Providers and Vendors
 There are also times when B-Epic Worldwide may need to make certain personal information about you available to companies that perform work for B-Epic Worldwide on products and services to you on our behalf. These companies may help us process information, deliver products to you, manage and enhance customer data, provide customer service, or conduct customer research or satisfaction surveys. These companies are also obligated to protect your personal information in accordance with B-Epic Worldwide policies, except if we inform you otherwise at the time of collection.
 
-Embedded Content and Third-Party Websites
+## Embedded Content and Third-Party Websites
 In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work). Also, we may include embedded content (e.g. videos, images, articles, etc.) on our sites. Be advised that embedded content from other websites behaves in the same way as if the visitor has visited the other website. These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
 
-Children
+## Children
 B-Epic does not knowingly collect personal information from children under the age of 18. If a child under 18 submits personal information to B-Epic Worldwide – and we learn that personal information is the information of a child under 18 – we will attempt to delete the information as soon as possible.
 
-How to Modify or Remove Your Information
+## How to Modify or Remove Your Information
 If you do not want us to keep you up to date with latest information on products and services, contact Member Support and ask to be removed from promotional emails or you can opt out in your Back Office under your account profile. Please note that due to email production schedules, you may receive any emails already in production. Please note, you will still receive communications from us regarding your account and orders.
 
 To delete all of your online account information from our database, sign into your Back Office and remove your contact, mailing, and billing information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
